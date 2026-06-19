@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  display: block;
+  color: #333;
+}
+ul,
+li {
+  list-style: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+section{
+  padding: 20px;
+  margin-bottom: 50px 0;
+  text-align: center;
+}
+button{
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #888;
+  border-radius: 10px 10px 0 0;
+  cursor: pointer;
+}
+div{
+  /* margin: 0 50px; */
+  text-align: center;
+}
